@@ -9,7 +9,7 @@
 title: Martin Kowbel Portfolio
 email: mekobes44@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- This is my portfolio site, I am an aspiring web develope. I build projects i=using Javascript, Ruby/Ruby on Rails and Python/Django
+ This is my portfolio site, I am an aspiring web developer. I build projects using Javascript, Ruby/Ruby on Rails and Python/Django.
  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
